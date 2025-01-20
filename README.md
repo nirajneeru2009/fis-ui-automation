@@ -14,7 +14,7 @@ The browser and environment details are kept in environment.properties file. To 
 
 Steps to run:
 
-1. git clone
+1. git clone https://github.com/nirajneeru2009/fis-ui-automation.git
 2. Open cmd and go to the project root directory fis-assignment where pom.xml file is located.
 3. Run mvn clean install or mvn clean test
 
