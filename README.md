@@ -9,7 +9,8 @@ This repo contains UI automation test for Ebay Add to cart functionality.
 I have used Selenium Webdriver for UI automation. I have added two tests for this one for "book" search and one invalid search string. 
 The browser and environment details are kept in environment.properties file. To change the browser you just need to change the browser parameter as given below.
 
-![2fcc3afb0872cbc744fd1cce8f839743](https://github.com/user-attachments/assets/708eedb7-a039-4b4d-8415-512d80e7fcc4)
+![Screenshot 2025-01-20 075515](https://github.com/user-attachments/assets/51c7cb9b-cea2-4d8a-9ecd-3002f45e3ee4)
+
 
 Steps to run:
 
